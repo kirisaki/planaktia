@@ -1,0 +1,11 @@
+package planaktia
+version = 0.1.0
+authors = "Akihito Kirisaki"
+license = "MIT or Apache 2.0"
+
+modules = Planaktia
+
+main = Main
+
+executable = "planaktia"
+sourcedir = "src"

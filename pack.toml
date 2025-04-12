@@ -1,0 +1,10 @@
+[custom.all.planaktia]
+type = "local"
+path = "."
+ipkg = "planaktia.ipkg"
+test = "test/test.ipkg"
+
+[custom.all.planaktia-test]
+type = "local"
+path = "test"
+ipkg = "test.ipkg"
